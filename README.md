@@ -12,7 +12,12 @@ The working of it has both simple and complexity situations...which makes the es
 
 Note: the model only works with full setup virtual reality environment.
 
+For understanding more on working and project discription: please go into the file where the read_me is avliable
 
-Working and project discription:
+
+
+
+
+-------------------------------------------------------thank you-------------------------------------------------------------------
 
 
