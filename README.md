@@ -11,3 +11,8 @@ there are two phases of devlopment involved to achieve the final product:
 The working of it has both simple and complexity situations...which makes the escape room intersting to play on
 
 Note: the model only works with full setup virtual reality environment.
+
+
+Working and project discription:
+
+
